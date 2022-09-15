@@ -1,0 +1,37 @@
+1. A sample of the various prices for a particular product has been conducted in 16 stores which were selected at random in a neighborhood of a city. The following prices were noted:
+95, 108, 97, 112, 99, 106, 105, 100, 99, 98, 104, 110, 107, 111, 103, 110.
+Assuming that the prices of this product follow a normal distribution with a variance of 25 and an unknown mean:
+	a.What is the sample mean?
+
+	b.Determine the confidence interval at 95% for the population mean.
+
+
+2. Suppose that an accounting firm does a study to determine the time needed to complete one person’s tax forms. It randomly surveys 100 people. The sample mean is 23.6 hours.   The population distribution is assumed to be normal a known standard deviation of 7.0 hours. Construct a 90% confidence interval for the population mean time to complete the tax forms.
+
+3. The average heights of a random sample of 400 people from a city is 1.75 m. It is known that the heights of the population are random variables that follow a normal distribution with a variance of 0.16.
+
+a. Determine the average heights of the population with an interval of 95% confidence. 
+b. With a confidence level of 90%, what would the minimum sample size need to be in order for the true mean of the heights to be less than 2 cm from the sample mean?
+
+4. Suppose you do a study of acupuncture to determine how effective it is in relieving pain. You measure sensory rates for 15 subjects with the results given. Use the sample data to construct a 95% confidence interval for the mean sensory rate for the population (assumed normal) from which you took the data.
+
+8.6 9.4 7.9 6.8 8.3 7.3 9.2 9.6 8.7 11.4 10.3 5.4 8.1 5.5 6.9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
